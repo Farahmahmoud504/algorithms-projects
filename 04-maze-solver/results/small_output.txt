@@ -1,0 +1,10 @@
+BFS      : 5 moves, explored 8 cells
+S**#
+##*.
+..*E 
+
+DFS      : 5 moves, explored 6 cells
+S**#
+##**
+...E 
+
